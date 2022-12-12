@@ -23,7 +23,7 @@
 
 Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it all. A compact 3D printer that packs into a filament spool box, so you can take it anywhere you want. This design is looking at a 3D printer less like a stationary machine, but more like a powerful tool in a maker/inventor's tool kit. The printer deploys and folds up in less than 90 seconds, fits easily inside a bag, and prints at 200+mm/s.
 
-**Specs**: 
+**Specs**:
 - Max Print Speed: `250mm/s`
 - Max Travel Speed: `350mm/s`
 - Acceleration: `9800mm/s^2`
@@ -35,9 +35,21 @@ Upside-down, compact, portable, and super fast 3D printer - `Positron V3` has it
 
 > Do not treat this design as a finished product. Instead, please see it as a project to be improved upon. When you make this, if you find any improvements, please share it with the community! I could easely have overlooked things; Lets make this printer the best it can be!
 
->**Disclaimer**: `Positron V3` design is a ***functional*** prototype, not a complete product. **There is absolutely no warranty, and you will make this design at your ***OWN*** risk. I will not be responsible for any damages associated with this design**. 
+>**Disclaimer**: `Positron V3` design is a ***functional*** prototype, not a complete product. **There is absolutely no warranty, and you will make this design at your ***OWN*** risk. I will not be responsible for any damages associated with this design**.
 
 If you like this design, please consider supporting the Positron 3D team via donations; [Paypal](https://donate.positron3d.com)
+
+## @regularfry's Notes on This Repository Specifically
+
+If you're trying to build the v3 as originally designed, there are some issues you'll run into with the upstream repository: some instructions and files you'll find useful aren't recorded there.
+
+This repository exists to collate community-driven improvements to the instructions that Kralyn and the PositronV3 team haven't yet had time to officially incorporate.  It *will never* change the original design: there are plenty of people doing excellent work on that elsewhere, and over time I may signpost some of those upgrades if they can act as drop-ins with a minimal blast radius.
+
+The purpose of this fork is to ensure that if you are aiming to build *exactly* the v3 as seen above, you run into as few speedbumps as possible along the way, and you should have as few choices to make as possible to get yourself a working printer.
+
+If you're building a v3 and run into a problem, please see CONTRIBUTING.md.
+
+To see what's been added here over and above the upstream, please see CHANGELOG.md.
 
 # Licenses
 
