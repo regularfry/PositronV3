@@ -5,6 +5,7 @@ All notable changes to this project over and above the [upstream repository](htt
 2022-12-18 Alex Young <alex@blackkettle.org>
 
  - Moved metal parts out of the Acrylic Panel Parts directory, and into the Custom Metal Parts directory.
+ - Removed a duplicate z axis thumbscrew file.
 
 2022-12-17 Alex Young <alex@blackkettle.org>
 
